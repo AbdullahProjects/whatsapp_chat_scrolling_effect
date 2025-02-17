@@ -3,7 +3,7 @@
 This Flutter project replicates the WhatsApp scrolling effect. When a user taps on a reference message, the scroller automatically moves to that message, ensuring a smooth and intuitive chat navigation experience.
 
 ## 📸 Screenshot
-![Project Screenshot](your_image_link_here)
+![Project Screenshot](https://github.com/AbdullahProjects/whatsapp_chat_scrolling_effect/blob/main/Screenshot%202025-02-17%20160909.png)
 
 ## 🚀 Features
 - Smooth auto-scrolling to referenced messages
@@ -18,7 +18,7 @@ This Flutter project replicates the WhatsApp scrolling effect. When a user taps 
 ## 📂 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AbdullahProjects/whatsapp_chat_scrolling_effect.git
    ```
 2. Navigate to the project directory:
    ```sh
