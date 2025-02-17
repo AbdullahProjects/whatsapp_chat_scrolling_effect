@@ -34,7 +34,7 @@ This Flutter project replicates the WhatsApp scrolling effect. When a user taps 
    ```
 
 ## 🎥 Demo
-[Watch Demo Video](your_demo_video_link_here)
+[Watch Demo Video](https://www.linkedin.com/feed/update/urn:li:activity:7297213854273486848/)
 
 ## 🤝 Contributing
 Feel free to open issues or create pull requests if you have any improvements!
